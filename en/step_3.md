@@ -1,4 +1,4 @@
-## Chapter One: Getting started"
+## Chapter One: Getting started
 
 BUILDING YOUR TEAM
 Running a Raspberry Jam does not have to be a one-person operation. If you are

@@ -76,7 +76,7 @@ Starting and running a Raspberry Jam: advice gathered from the Raspberry Pi comm
 - Case study: Manchester Raspberry Jam
 - Case study: South London Raspberry Jam
 
-###Contributors
+### Contribution
 
 The Raspberry Jam Guidebook was authored and curated by Ben Nuttall and the Raspberry Pi Foundation team
 
