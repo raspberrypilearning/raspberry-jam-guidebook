@@ -5,7 +5,8 @@ version: 4
 listed: false
 copyedit: false
 steps:
-  - title: "Foreword & Introduction"
+  - title: "Foreword"
+  - title: "Introduction"
   - title: "Chapter One: Getting started"
   - title: "Chapter Two: The next steps"
   - title: "Chapter Three: Running your activities"
