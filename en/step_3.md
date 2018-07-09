@@ -1,4 +1,4 @@
-CHAPTER ONE: GETTING STARTED
+## Chapter One: Getting started"
 
 BUILDING YOUR TEAM
 Running a Raspberry Jam does not have to be a one-person operation. If you are
@@ -788,10 +788,10 @@ resources to help with compiling risk assessments, including templates and advic
 Resource Centre:
 rpf.io/ra
 
-REMEMBER: “Risk assessment is about achieving a balance between a reasonable
+REMEMBER: "Risk assessment is about achieving a balance between a reasonable
 level of risk, and being able to get on with organising your activities. Remember,
 no activity is completely free from risk, and doing a risk assessment is not about
-making your activities risk-free.”
+making your activities risk-free."
 - Resource Centre
 
 Our venue, a university, required us to perform a risk assessment
@@ -1032,7 +1032,7 @@ but if you have something in mind that they can contribute to, this will help. G
 examples include buying pizza for the event, or buying a set of Raspberry Pis for
 workshops.
 Be grateful for any donations or sponsorship you receive, and be sure to thank the
-donors privately and publicly. A “thank you” tweet from your Jam's account will be
+donors privately and publicly. A "thank you" tweet from your Jam's account will be
 well received, and companies will appreciate the publicity. Encourage attendees to
 retweet, and to add their own thanks to your message.
 As well as local companies, you could approach Raspberry Pi retailers to ask whether
@@ -1485,8 +1485,8 @@ Just being able to chat on
 Slack with people who have
 more experience of Jams has
 made me more confident in
-running one. I think, “If they
-can do this, so can I!” Also, I
+running one. I think, "If they
+can do this, so can I!" Also, I
 often read a message that's
 for someone else and learn
 something useful to me, e.g.
