@@ -76,13 +76,13 @@ Starting and running a Raspberry Jam: advice gathered from the Raspberry Pi comm
 - Case study: Manchester Raspberry Jam
 - Case study: South London Raspberry Jam
 
-### Contributors
+###Contributors
 
 The Raspberry Jam Guidebook was authored and curated by Ben Nuttall and the Raspberry Pi Foundation team
 
 #### Contributors
 
-Alan O’Donohoe, Andrew Mulholland, Andrew Oakley, Andy Melder, Anne Carlill,
+Alan O'Donohoe, Andrew Mulholland, Andrew Oakley, Andy Melder, Anne Carlill,
 Bill Harvey, Cat Lamin, Dave Honess, Grace Owolade-Coombes, Jacqui Thompson,
 Katharine Childs, Kerry Kidd, Les Pounder, Lucy Rogers, Marcus Tyler-Moore, Michael
 Rimicans, Michael Horne, Mike Trebilcock, Scott Turner, Simon Belshaw, Spencer Organ,
