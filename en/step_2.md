@@ -1,6 +1,4 @@
-## Foreword & Introduction
-
-### Foreword
+## Foreword
 
 Raspberry Jams are something of a phenomenon. Independent and run by volunteers, they gather together people from all walks of life to celebrate the Raspberry Pi in particular, and digital making in general. They have spread throughout the world, from humble beginnings in the north of England to the Far East and North America, and they show no signs of slowing down.
 
