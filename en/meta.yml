@@ -5,6 +5,7 @@ version: 4
 listed: false
 copyedit: false
 steps:
+  - title: "Raspberry Jam Guidebook"
   - title: "Foreword"
   - title: "Introduction"
   - title: "Chapter One: Getting started"
