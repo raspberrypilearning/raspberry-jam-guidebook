@@ -1,18 +1,22 @@
+---
 title: Raspberry Jam Guidebook
 hero_image: images/banner.png
-description: "Starting and running a Raspberry Jam: advice gathered from the Raspberry Pi community"
+description: 'Starting and running a Raspberry Jam: advice gathered from the Raspberry
+  Pi community'
 version: 4
 listed: false
 copyedit: false
 steps:
-  - title: "Raspberry Jam Guidebook"
-  - title: "Foreword"
-  - title: "Introduction"
-  - title: "Chapter One: Getting started"
-  - title: "Chapter Two: The next steps"
-  - title: "Chapter Three: Running your activities"
-  - title: "Chapter Four: Running a safe Jam"
-  - title: "Chapter Five: Money"
-  - title: "Chapter Six: Planning the big day"
-  - title: "Chapter Seven: After the first jam"
-  - title: "Chapter Eight: Developing your Jam"
+- title: Raspberry Jam Guidebook
+  completion: engaged
+- title: Foreword
+- title: Introduction
+- title: 'Chapter One: Getting started'
+- title: 'Chapter Two: The next steps'
+- title: 'Chapter Three: Running your activities'
+- title: 'Chapter Four: Running a safe Jam'
+- title: 'Chapter Five: Money'
+- title: 'Chapter Six: Planning the big day'
+- title: 'Chapter Seven: After the first jam'
+  completion: internal
+- title: 'Chapter Eight: Developing your Jam'
